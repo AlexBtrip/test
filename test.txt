@@ -7,12 +7,19 @@
 
 \f0\fs24 \cf0 \
 test test test test test test test test test test test test \
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
-\cf0 test test test test test test test test test test test test test test \
+test test test test test test test test test test test test test test \
 test test test test test test test test test test \
 test test test test test test test test test test test test \
 test test test test test test test test test test test test test test test test \
 \
 test test test test test test test test test test \
 test test \
-test test test test }
+test test test test \
+\
+\uc0\u1074 \u1072 \u1087 \u1074 \u1072 \u1087 \u1074 \
+\uc0\u1087 \
+\uc0\u1074 \u1072 \u1087 \
+\uc0\u1074 \u1072 \
+\uc0\u1087 \u1074 \
+\uc0\u1072 \u1087 \
+\uc0\u1074 \u1072 \u1087 \u1074 }
